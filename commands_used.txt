@@ -1,0 +1,13 @@
+# Commands Used — run in the authorized Linux lab VM, not Git Bash on Windows
+wireshark &
+telnet localhost
+whoami
+exit
+ssh localhost
+whoami
+
+# Wireshark display filters:
+# Telnet: telnet
+# SSH: ssh
+
+# Select the loopback interface (often lo) before starting each capture.

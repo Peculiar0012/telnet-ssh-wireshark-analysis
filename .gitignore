@@ -1,0 +1,14 @@
+# Packet captures may contain credentials or sensitive session information
+*.pcap
+*.pcapng
+*.cap
+
+# Temporary/editor/OS files
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Optional local-only notes
+local-private-notes.md

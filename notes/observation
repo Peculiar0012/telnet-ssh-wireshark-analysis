@@ -1,0 +1,25 @@
+provide short answers to these questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Telnet TCP Stream: Usernames, passwords, commands, and other session data could be visible as readable plaintext.
+
+2. SSH TCP Stream: The session data appeared encrypted and was not readable as ordinary plaintext.
+
+3. Danger of Unencrypted Authentication: Attackers who intercept the traffic may be able to read usernames and passwords and gain unauthorized access.
+
+4. Security Property of SSH: SSH provides encryption to protect login credentials and session data, unlike Telnet.
+
+5. Public GitHub Risk: Uploaded packet captures may expose credentials and sensitive information, allowing others to misuse them.
